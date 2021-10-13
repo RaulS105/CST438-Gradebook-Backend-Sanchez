@@ -1,6 +1,7 @@
 ## CST438 Software Engineering California State University Monterey Bay
 ## Grade book service project
 ### Instructors can enter grades for an assignment
+## Raul Sanchez
 
 ### REST apis  used by front end 
 
